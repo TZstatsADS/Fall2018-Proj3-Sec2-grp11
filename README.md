@@ -5,13 +5,12 @@
 
 Term: Fall 2018
 
-+ Team #
++ Team 11
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Feng, Xinwei xf2168@columbia.edu
+	+ Han, Tao th2710@columbia.edu
+	+ Wang, Nannan nw2387@columbia.edu
+	+ Zhang, Rui rz2406@columbia.edu
 
 + Project summary: In this project, we created a classification engine for enhance the resolution of images. 
 	
