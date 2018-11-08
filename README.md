@@ -21,7 +21,10 @@ We use patch-based method to extract features. The baseline model here is Gradie
 + Nannan Wang: Write and run the baseline code 
 + Rui Zhang: Write and run the baseline code
 + Xinwei Feng: Make presentation slides; Assist baseline code and write readme
-+ Tao Han: Write and run the improve part
++ Tao Han: Write and run the improvement part
+
+
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
