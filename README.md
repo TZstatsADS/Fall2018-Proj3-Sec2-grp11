@@ -14,7 +14,7 @@ Term: Fall 2018
 
 + Project summary: In this project, we created a classification engine for enhance the resolution of images. 
 Our client is interested in creating an mobile AI program that can enhance the resolution of ow-resolution images and can minimize running cost. Our goal is to enlarge the low resolution image, and produce a predicted high resolution image as output based on the low-resolution input.
-We use patch-based method to extract features. The baseline model here is Gradient Boosting Machines, and we use vector to replace loop in our feature extraction part as our improved model with depth equal to 7. The time cost of the improved model to predict 1500 HR images is around 16 mins. The error(MSE) is 0.00257. The PSNR is 25.893.
+We use patch-based method to extract features. The baseline model here is Gradient Boosting Machines, and we use vector to replace loop in our feature extraction part as our improved model with depth equal to 5. The time cost of the improved model to predict 1500 HR images is around 4600s and the PSNR is around 27.893.
 
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
